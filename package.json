@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
   "author": "rahul verma",
   "license": "ISC",
@@ -16,6 +16,7 @@
     "express": "^4.18.2",
     "mongoose": "^7.4.4",
     "nodemon": "^3.0.1",
-    "routes": "^2.1.0"
+    "routes": "^2.1.0",
+    "upgrade": "^1.1.0"
   }
 }
